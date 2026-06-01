@@ -24,3 +24,16 @@ The applicability of this task is broad and highly relevant across industries. L
 In addition to the optimization task, the earlier machine learning tasks (Decision Tree on the Iris dataset and Sentiment Analysis using NLP) also followed a systematic data workflow. In those tasks, datasets were preprocessed, features were selected, models were trained, and results were evaluated using appropriate metrics. Tools like Scikit-learn and TF-IDF vectorization were used to transform raw data into meaningful inputs for models. These tasks highlighted the importance of data cleaning, feature engineering, and model evaluation in achieving accurate results. Overall, all tasks demonstrate a hands-on approach to solving real-world problems using data science techniques, combining theoretical understanding with practical implementation in a scalable and efficient manner.
 
 *OUTPUTS*:
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/b1fa177d-e75b-49bb-bb6e-b8f7b620c185" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/c1254f30-3bc0-4f18-a0aa-4c13ef72dd27" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/9f5d7de2-b57e-4670-8cee-e34a68a0ac5d" />
+
+<img width="1582" height="1102" alt="Image" src="https://github.com/user-attachments/assets/bdbec0a3-5b8f-4901-a548-9b3e9834356a" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/421b7e93-7296-41f1-a059-e0450cc77b9b" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/cba07c8e-c2ee-4bde-af72-eb4475bbc541" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/40aa1765-0d62-4435-85fa-50100d634e1c" />
